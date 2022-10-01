@@ -14,7 +14,6 @@ public class HW1 {
     public static void main(String[] args) {
        HW1 obj=new HW1();
             obj.largestNumber(2,4);
-/*
 
     }}
 
