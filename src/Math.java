@@ -23,7 +23,6 @@ public class Math {
 /*        obj.printFiboSeries(5); // this is how we execute the logic present inside the methods
         System.out.println("**");
         obj.printFiboSeries(10);/
-        obj.add(10,20);
+        obj.add(10,20);*/
 
-    }
-}
+    }}
