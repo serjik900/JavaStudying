@@ -1,0 +1,13 @@
+package ReplitTest;
+
+import java.util.Scanner;
+
+public class loopPractice {
+    public static void main(String[] args) {
+
+        Scanner in=new Scanner(System.in);
+
+
+
+    }
+}
